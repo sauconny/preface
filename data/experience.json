@@ -2,14 +2,15 @@
 	"title" : "Experience",
 	"experience" : [
 		{
-			"timeperiod" : "May 2017 - Nov 2017",
-			"company" : "Uber",
-			"website": "https://www.uber.com",
+			"timeperiod" : "June 2018 - Present",
+			"company" : "Optum (Software Engineer)",
+			"website": "https://www.optum.com",
 			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
 		},
 		{
-			"timeperiod" : "Nov 2017 - Present",
-			"company" : "Google",
+			"timeperiod" : "May 2017 - August 2017",
+			"company" : "Optum (Intern)",
+			"website": "https://careers.unitedhealthgroup.com/early-careers/programs/technology-development-program",
 			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
 		}
 	]

@@ -1,14 +1,14 @@
 {
-	"title" : "Services",
+	"title" : "Interests",
 	"services" : [
 		{
-			"icon" : "pencil-ruler",
-			"title" : "Logo Design",
+			"icon" : "laptop-code",
+			"title" : "Front-End Engineering",
 			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
 		},
 		{
-			"icon" : "pen-nib",
-			"title" : "Graphics Design",
+			"icon" : "users",
+			"title" : "Open Source",
 			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
 		}
 	]

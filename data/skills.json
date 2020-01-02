@@ -2,9 +2,10 @@
 	"title" : "Skills",
 	"skills" : {
 		"Angular" : "90",
-		"JavaScript" : "80",
-		"Docker" : "65",
-		"Java" : "97",
+		"JavaScript" : "85",
+		"NodeJS": "80",
+		"Java" : "70",
+		"Docker" : "60",
 		"React": "50"
 	}
 }
