@@ -1,4 +1,4 @@
-baseURL = "https://sauconny.github.io/preface/hugo-uilite-free/"
+baseURL = ""
 languageCode = "en-us"
 title = "Jay Park"
 theme = "hugo-uilite"
