@@ -11,7 +11,7 @@
 			"timeperiod" : "May 2017 - August 2017",
 			"company" : "Optum (Intern)",
 			"website": "https://careers.unitedhealthgroup.com/early-careers/programs/technology-development-program",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"description" : "As a TDP Intern I worked within an agile team as a Software Engineer. As a team we were able to leverage vanilla JavaScript, HTML/CSS, jQuery, and also Node.JS to create a web application and a RESTful API hosted in AWS. A dynamic Python script was also implemented to change a LED light connected to a Raspberry Pi to determine what clinical operation was occuring in our web application. Some other tech that was used was MySQL, Bootstrap, and Express"
 		}
 	]
 }

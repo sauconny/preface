@@ -10,6 +10,11 @@
 			"icon" : "users",
 			"title" : "Open Source",
 			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+		},
+		{
+			"icon" : "users-cog",
+			"title" : "Ease of Use",
+			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
 		}
 	]
 }
