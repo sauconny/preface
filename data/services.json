@@ -4,17 +4,17 @@
 		{
 			"icon" : "laptop-code",
 			"title" : "Front-End Engineering",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"description" : "Front-End development has evolved so quickly with the introduction of frameworks such as React and Angular to make these processes. I particulary love this area of making these front-end technologies easily accessible and easy to use to help everyone and anyone to become a developer! Note: JAM Stack is the new move. "
 		},
 		{
 			"icon" : "users",
 			"title" : "Open Source",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"description" : "Collaboration is everything, and so is Open Source! I enjoy researching and contributing to different Open Source projects and a huge advocate for consumption of these projects. "
 		},
 		{
 			"icon" : "users-cog",
 			"title" : "Ease of Use",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"description" : "I love enabling engineerings to do their work proficiently whether that's saving them 5 seconds to 5 hours. I mostly focus on side-projects that I make for fun that helps to enable engineers and help them to enable others as well! "
 		}
 	]
 }
