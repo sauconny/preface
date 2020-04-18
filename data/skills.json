@@ -3,9 +3,9 @@
 	"skills" : {
 		"Angular" : "90",
 		"JavaScript" : "85",
-		"NodeJS": "80",
+		"Node.js": "80",
 		"Java" : "70",
-		"Docker" : "60",
-		"React": "50"
+		"CI/CD" : "50",
+		"React": "60"
 	}
 }
